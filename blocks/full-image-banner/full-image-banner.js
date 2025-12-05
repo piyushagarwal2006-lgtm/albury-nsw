@@ -7,8 +7,8 @@ const CUSTOM_CLASSES = {
     1: 'nsw-card__copy',
   },
   image: {
-    0: 'hero__image__desktop',
-    1: 'hero__image__mobile',
+    0: 'hero__image--desktop',
+    1: 'hero__image--mobile',
   },
 };
 
